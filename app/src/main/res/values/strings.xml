@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InClass04Starter</string>
+    <string name="add_label">Add</string>
+    <string name="subtractLabel">Substract</string>
+    <string name="resultLabel">Result</string>
+    <string name="calculateLabel">Calculate</string>
+</resources>
